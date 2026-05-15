@@ -18,7 +18,5 @@ bMap_1 <- fit_BBM(
   method_FC = "VB2",
   epsilon = 0.01,
   GSR = FALSE,
-  usePar = FALSE,
-  method_FC = "VB2"
-  
+  usePar = FALSE
 )
